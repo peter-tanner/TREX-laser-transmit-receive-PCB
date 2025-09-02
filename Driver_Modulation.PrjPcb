@@ -52,6 +52,9 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Release]
+ReleaseTarget=3
+
 [Document1]
 DocumentPath=Driver_Modulation.SchDoc
 AnnotationEnabled=1
@@ -192,11 +195,35 @@ DocumentUniqueId=VIAWGOOX
 Name=Sources
 ParameterCount=0
 ConstraintFileCount=0
-ReleaseItemId=
+ReleaseItemId=E758E00F-343C-46B6-970F-70B9E4499738
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=179D8B5E-AA4F-4E60-B8FB-F2D3E72004EB
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Fabrication.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=682D6C32-ECF4-417B-86A6-38331CE66C58
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Assembly.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Generic_SimulationProfiles]
 ActiveProfile=TXWNAVWC
