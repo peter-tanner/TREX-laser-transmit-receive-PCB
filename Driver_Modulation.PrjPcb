@@ -53,6 +53,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Power_Regulation.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VIAWGOOX
+
+[Document2]
 DocumentPath=Driver_Modulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -69,7 +86,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEZYSCPS
 
-[Document2]
+[Document3]
 DocumentPath=Driver_Modulation.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIPIBYXN
 
-[Document3]
+[Document4]
 DocumentPath=Driver_Modulation.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=Assembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=Driver_Modulation.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYEODZOL
 
-[Document7]
+[Document8]
 DocumentPath=PD_Receiver_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
