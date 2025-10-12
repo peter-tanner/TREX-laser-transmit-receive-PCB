@@ -8,6 +8,10 @@ Contains Altium source files for TREX laser driver
 
 Check `Release_Products` for schematics, gerbers, BOM files generated from the last revision.
 
+## Simulation files
+
+Check `Simulation` for LTspice simulations of receiver and transmitter circuits, you must run `download-copyrighted-libraries.sh` on your first run to download copyrighted SPICE models from the IC vendor.
+
 ## Ordering instrctions
 
 Use the Gerber, drill file, CPL and assembly BOM in `Release_Products` to create an order. Alternatively, use `Fabrication.OutJob` to create gerbers and NC drill file for PCB, and pick and place file and BOM for PCB assembly.

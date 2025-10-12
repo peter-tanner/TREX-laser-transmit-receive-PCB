@@ -1,0 +1,2 @@
+curl https://www.ti.com/lit/zip/sbom875 -OL && unzip sbom875 && cp OPA355_PSPICE_AIO/OPA355.LIB OPA355.LIB; rm -rf OPA355_PSPICE_AIO sbom875
+curl https://www.ti.com/lit/zip/scem586 -OL && unzip scem586; rm scem586
