@@ -18,10 +18,10 @@ RevisionNamingSchemeGUID=
 Name=Fabrication.OutJob
 Description=
 TargetOutputMedium=Fabrication Outputs
-VariantName=[No Variations]
+VariantName=PRODUCTION_JLCPCB
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=EPSON WF-2510 Series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -90,7 +90,7 @@ Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 [PublishSettings]
 OutputFilePath2=C:\ProgramData\Altium\Altium Designer {D9E1B2BE-4494-4047-81C1-A87018451F64}\VaultEditCache\1409E5A3-D25A-42FA-A734-D2259DFA35C4\Released\Project Outputs for PRJT-0001-1\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for PRJT-0001-1
+OutputBasePath2=Project Outputs for Driver_Modulation
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=

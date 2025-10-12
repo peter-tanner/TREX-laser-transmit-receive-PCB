@@ -18,10 +18,10 @@ RevisionNamingSchemeGUID=
 Name=Assembly.OutJob
 Description=
 TargetOutputMedium=BOM
-VariantName=[No Variations]
+VariantName=PRODUCTION_MANUAL
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Canon TS5300 series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -48,7 +48,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=ColumnNameFormat
 Configuration1_Item1=CaptionAsName
 Configuration1_Name2=General
-Configuration1_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=089603F3-0982-4E4B-B23E-240749B882CE|TemplateRevisionGuid=345F30E9-E96F-43E5-82C3-51355DB48C69|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=AUD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=UWAA Default
+Configuration1_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=089603F3-0982-4E4B-B23E-240749B882CE|TemplateItemGuid=EF7FE4FF-EF4C-483F-80D5-9464FD4D9A29|TemplateRevisionGuid=345F30E9-E96F-43E5-82C3-51355DB48C69|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=2|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=AUD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=UWAA Default
 Configuration1_Name3=GroupOrder
 Configuration1_Item3=Comment=True|Footprint=True
 Configuration1_Name4=SortOrder
@@ -73,7 +73,7 @@ OutputEnabled2_OutputMedium3=1
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=True|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
+Configuration2_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=True|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\Public\Documents\Altium\Driver_Modulation\Driver_Modulation.PcbDoc
 OutputType3=Schematic Print
 OutputName3=Schematics
 OutputCategory3=Documentation
@@ -102,9 +102,9 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [PublishSettings]
-OutputFilePath2=C:\ProgramData\Altium\Altium Designer {D9E1B2BE-4494-4047-81C1-A87018451F64}\VaultEditCache\1409E5A3-D25A-42FA-A734-D2259DFA35C4\Released\Project Outputs for PRJT-0001-1\
+OutputFilePath2=C:\Users\Public\Documents\Altium\Driver_Modulation\Project Outputs for Driver_Modulation\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for PRJT-0001-1
+OutputBasePath2=Project Outputs for Driver_Modulation
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -115,9 +115,9 @@ OutputFileNameMulti2==OutputName
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
-OutputFilePath3=C:\ProgramData\Altium\Altium Designer {D9E1B2BE-4494-4047-81C1-A87018451F64}\VaultEditCache\1409E5A3-D25A-42FA-A734-D2259DFA35C4\Released\Project Outputs for PRJT-0001-1\3D Model\
+OutputFilePath3=C:\Users\Public\Documents\Altium\Driver_Modulation\Project Outputs for Driver_Modulation\3D Model\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for PRJT-0001-1
+OutputBasePath3=Project Outputs for Driver_Modulation
 OutputPathMedia3=[Media Name]
 OutputPathMediaValue3=
 OutputPathOutputer3=
@@ -130,7 +130,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=C:\ProgramData\Altium\Altium Designer {D9E1B2BE-4494-4047-81C1-A87018451F64}\VaultEditCache\1409E5A3-D25A-42FA-A734-D2259DFA35C4\Released\Project Outputs for PRJT-0001-1\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for PRJT-0001-1
+OutputBasePath4=Project Outputs for Driver_Modulation
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -157,7 +157,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\ProgramData\Altium\Altium Designer {D9E1B2BE-4494-4047-81C1-A87018451F64}\VaultEditCache\1409E5A3-D25A-42FA-A734-D2259DFA35C4\Released\Project Outputs for PRJT-0001-1\
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\Driver_Modulation\Project Outputs for Driver_Modulation\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
@@ -167,7 +167,7 @@ OpenGerberOutput2=0
 OpenNCDrillOutput2=0
 OpenIPCOutput2=0
 EnableReload2=0
-RelativeOutputPath3=C:\ProgramData\Altium\Altium Designer {D9E1B2BE-4494-4047-81C1-A87018451F64}\VaultEditCache\1409E5A3-D25A-42FA-A734-D2259DFA35C4\Released\Project Outputs for PRJT-0001-1\3D Model\
+RelativeOutputPath3=C:\Users\Public\Documents\Altium\Driver_Modulation\Project Outputs for Driver_Modulation\3D Model\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
