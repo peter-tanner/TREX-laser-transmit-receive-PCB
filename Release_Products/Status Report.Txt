@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:09:41 AM On 13/10/2025
+
+Output: Copy of Copy of Bill of Materials
+Type  : BOM
+From  : Variant [PRODUCTION_MANUAL] of Project [Driver_Modulation.PrjPcb]
+   Generated File[BOM_Mouser_Manual_Assy.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:09:51 AM On 13/10/2025

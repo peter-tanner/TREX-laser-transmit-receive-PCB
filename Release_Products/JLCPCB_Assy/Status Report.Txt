@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [PRODUCTION_JLCPCB] of PCB Document [Driver_Modulation.PcbDoc]
+   Generated File[Pick Place for Driver_Modulation(PRODUCTION_JLCPCB).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:04:51 AM On 13/10/2025

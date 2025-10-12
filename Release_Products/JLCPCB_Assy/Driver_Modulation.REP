@@ -2,140 +2,6 @@
 FileName = Driver_Modulation.GBR
 AutoAperture = True
 *************************************************************
-Generating : Layer 1
-      File : Driver_Modulation.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D111
-    D112
-    D117
-    D118
-    D121
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Driver_Modulation.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D17
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D101
-    D103
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Driver_Modulation.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D17
-    D46
-    D47
-    D101
-    D103
-    D106
-    D107
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Driver_Modulation.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D17
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : Driver_Modulation.GTO
 
@@ -155,19 +21,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Driver_Modulation.GBP
+Generating : Keep-Out Layer
+      File : Driver_Modulation.GKO
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D46
-    D47
+    D17
 *************************************************************
 
 *************************************************************
@@ -186,33 +47,6 @@ Used DCodes :
     D112
     D117
     D121
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Driver_Modulation.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D16
-    D125
-    D126
-    D127
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Driver_Modulation.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D15
-    D17
 *************************************************************
 
 *************************************************************
@@ -263,6 +97,52 @@ Used DCodes :
     D52
     D53
     D54
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : Driver_Modulation.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D111
+    D112
+    D117
+    D118
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Driver_Modulation.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D15
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Driver_Modulation.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -361,6 +241,126 @@ Used DCodes :
     D103
     D104
     D105
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Driver_Modulation.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D17
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D101
+    D103
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Driver_Modulation.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D16
+    D125
+    D126
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Driver_Modulation.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D46
+    D47
+    D101
+    D103
+    D106
+    D107
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
 *************************************************************
 
 *************************************************************
